@@ -1,0 +1,8 @@
+QToolTip {
+    background-color: rgb(120, 130, 120);
+    border-color: darkslategray;
+    border-width: 1px;
+    font: bold;
+    border-radius: 3px;
+    opacity: 200;
+}
