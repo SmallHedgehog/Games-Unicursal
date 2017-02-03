@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/pencil.ico</file>
+        <file>res/desktopPicture.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>toolTip.qss</file>
+    </qresource>
+</RCC>
